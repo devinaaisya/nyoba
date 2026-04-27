@@ -152,7 +152,7 @@ if (reversed == null) { reversed = false; }
 		}
 		
 		this.back7.addEventListener("click", function() {
-		    window.location.href = "halaman1.html";
+		    window.location.href = "index.html";
 		});
 	}
 	this.frame_1 = function() {
